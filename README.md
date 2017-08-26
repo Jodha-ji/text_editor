@@ -1,8 +1,8 @@
 # text_editor
-Simple text editor made using java
+A simple text editor using java.
 
-It is text editor just like notepad made by java.
+It works just like notepad, coded entirely using java.
 Edi.java contains the main method. 
-to open file first you have to compile it then run the .class file by terminal/cmd.
+Just compile it and then run the .class file by terminal/cmd.
 
 Find and Find&Replace function are not yet completed.
